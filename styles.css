@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    background: #35424a;
+    background: #3c97cf;
     color: #ffffff;
     padding: 20px 0;
     text-align: center;
@@ -18,7 +18,7 @@ main {
 }
 
 section {
-    background: #ffffff;
+    background: #63a716;
     margin: 10px auto;
     padding: 15px;
     border-radius: 5px;
@@ -34,7 +34,7 @@ section {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #35424a;
+    background: #5da7d5;
     color: #ffffff;
     position: relative;
     bottom: 0;
